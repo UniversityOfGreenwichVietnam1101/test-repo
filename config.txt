@@ -6,12 +6,6 @@ name = Phan Thanh Tra
 size = 160
 email = thtraphan@gmail.com
 
-<<<<<<< HEAD
-name= Trà Quang Duy
-Size = 170
-email = tranquangduy246@gmail.com
-=======
 	name = VYQUAQUAY
 	size = 100
 	email = peter@dir.bg
->>>>>>> c5e2694a2dc1fe28666dc6316369d5c2aa6b6632
