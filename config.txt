@@ -7,8 +7,14 @@ size = 160
 email = thtraphan@gmail.com
 
 
+<<<<<<< HEAD
 name= Trà Quang Duy
 Size = 170
 email = tranquangduy246@gmail.com
 
 
+=======
+name = VYQUAQUAY
+size = 100
+email = vydapgiai69@gmail.com
+>>>>>>> d39eb7c7cd6f6fed5765cf3beeb6d419a9ef6a6f
