@@ -1,3 +1,7 @@
 name = Nguyen-Van-Bao-Duy
 size = 69
 email = baoduy111@gmail.com
+
+name = Phan Thanh Tra
+size = 160
+email = thtraphan@gmail.com
