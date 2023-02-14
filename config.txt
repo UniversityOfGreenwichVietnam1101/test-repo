@@ -5,3 +5,7 @@ email = baoduy111@gmail.com
 name = Phan Thanh Tra
 size = 160
 email = thtraphan@gmail.com
+
+	name = VYQUAQUAY
+	size = 100
+	email = peter@dir.bg
